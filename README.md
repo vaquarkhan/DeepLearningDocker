@@ -1,5 +1,7 @@
 # Machine Learning and Deep Learning Docker Image
 
+https://hub.docker.com/r/dhavalthakkar/deeplearningdocker/
+
 If you're getting started with Machine Learning/Deep Learning, you know how hard it is to setup the environment just to get started. I have built this docker image to help you out. This image contains most of the tools required to do Machine Learning/Deep Learning.
 
 This image can be used on Ubuntu. Steps for installing docker and getting started with the container are given below. Also, this image can be used on AWS, GCP or any cloud platform.
